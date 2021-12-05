@@ -1,0 +1,7 @@
+#Sat Dec 04 21:01:12 IST 2021
+base.1=C\:\\odml-pathways-main\\object-detection\\codelab2\\android\\starter\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\odml-pathways-main\\object-detection\\codelab2\\android\\starter\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
