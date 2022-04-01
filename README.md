@@ -1,2 +1,3 @@
 # object-detection-app
-a light object detection app using efficient net and kotlin
+a lite object detection app using efficient net and kotlin
+source:- MLkit tutorial
